@@ -86,7 +86,7 @@ namespace MessageClassifier
         protected void button1_Click(object sender, EventArgs e)
         {
             message1.Text = "Hey, what's going on?";
-            message2.Text = "SMS Reply WIN and iPhone 12 is yours!!!!!!";
+            message2.Text = "SIX chances to win CASH! From 100 to 20 000 pounds txt> CSH11 and send to 87575.";
             examples.Visible = true;
         }
     }
